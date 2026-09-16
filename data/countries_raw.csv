@@ -1,0 +1,193 @@
+country_name,country_code,year,gdp_per_capita,population,region
+Monaco,MCO,2024,288001.433369041,38631,Europe & Central Asia
+Bermuda,BMU,2024,142855.374713782,64636,North America
+Luxembourg,LUX,2024,137781.681659123,677012,Europe & Central Asia
+Ireland,IRL,2024,112894.953240805,5395790,Europe & Central Asia
+Switzerland,CHE,2024,103998.186685604,9005582,Europe & Central Asia
+Singapore,SGP,2024,90674.066632628,6036860,East Asia & Pacific
+Norway,NOR,2024,86785.4334489176,5572279,Europe & Central Asia
+Iceland,ISL,2024,86040.5309851288,386506,Europe & Central Asia
+United States,USA,2024,84534.0407841548,340110988,North America
+Qatar,QAT,2024,76688.6941743178,2857822,Middle East & North Africa
+Faroe Islands,FRO,2024,74119.6607553879,54681,Europe & Central Asia
+"Macao SAR, China",MAC,2024,72004.7437020733,687000,East Asia & Pacific
+Denmark,DNK,2024,71026.4832271897,5976992,Europe & Central Asia
+Netherlands,NLD,2024,67520.4218956281,17993485,Europe & Central Asia
+Australia,AUS,2024,64603.9856308464,27196812,East Asia & Pacific
+Austria,AUT,2024,58268.8787651601,9177982,Europe & Central Asia
+Sweden,SWE,2024,57117.4877440616,10569709,Europe & Central Asia
+Belgium,BEL,2024,56614.5679499036,11858610,Europe & Central Asia
+Germany,DEU,2024,56103.7323182554,83516593,Europe & Central Asia
+Canada,CAN,2024,54340.3477224733,41288599,North America
+Israel,ISR,2024,54176.6844383302,9974400,Middle East & North Africa
+"Hong Kong SAR, China",HKG,2024,54074.6928519479,7524100,East Asia & Pacific
+United Kingdom,GBR,2024,53246.3676145108,69226000,Europe & Central Asia
+Finland,FIN,2024,53149.7671934051,5619911,Europe & Central Asia
+United Arab Emirates,ARE,2024,50273.5060469837,10986400,Middle East & North Africa
+Andorra,AND,2024,49303.6491674336,81938,Europe & Central Asia
+New Zealand,NZL,2024,49205.1792146792,5287500,East Asia & Pacific
+France,FRA,2024,46103.0840855884,68551653,Europe & Central Asia
+Malta,MLT,2024,43898.5781808597,568847,Middle East & North Africa
+Sint Maarten (Dutch part),SXM,2024,41472.5874498583,43350,Latin America & Caribbean
+Italy,ITA,2024,40385.3413957669,58952704,Europe & Central Asia
+Aruba,ABW,2024,39498.5941293797,107995,Latin America & Caribbean
+"Bahamas, The",BHS,2024,39455.4466548546,401283,Latin America & Caribbean
+Puerto Rico (US),PRI,2024,39343.7154660139,3203295,Latin America & Caribbean
+Cyprus,CYP,2024,38674.29296875,1358282,Europe & Central Asia
+Turks and Caicos Islands,TCA,2024,37506.7798431288,46535,Latin America & Caribbean
+"Korea, Rep.",KOR,2024,36238.639908315,51751065,East Asia & Pacific
+Spain,ESP,2024,35326.7683069278,48848840,Europe & Central Asia
+Saudi Arabia,SAU,2024,35121.6628687742,35300280,Middle East & North Africa
+Slovenia,SVN,2024,34301.0318686594,2127400,Europe & Central Asia
+Brunei Darussalam,BRN,2024,33153.4738913513,462721,East Asia & Pacific
+Kuwait,KWT,2024,32717.7186631255,4897263,Middle East & North Africa
+Japan,JPN,2024,32487.0778047567,123975371,East Asia & Pacific
+Czechia,CZE,2024,31823.3078290564,10905028,Europe & Central Asia
+Estonia,EST,2024,31428.3547816104,1372341,Europe & Central Asia
+Guyana,GUY,2024,29675.2443873316,831087,Latin America & Caribbean
+Bahrain,BHR,2024,29653.5682731534,1588670,Middle East & North Africa
+Lithuania,LTU,2024,29384.0189598663,2888278,Europe & Central Asia
+Portugal,PRT,2024,29292.242104753,10694681,Europe & Central Asia
+New Caledonia,NCL,2024,29213.1923192946,292639,East Asia & Pacific
+Barbados,BRB,2024,26544.8707282621,282467,Latin America & Caribbean
+Slovak Republic,SVK,2024,25992.6748502048,5422069,Europe & Central Asia
+Poland,POL,2024,25103.565661423,36559233,Europe & Central Asia
+Greece,GRC,2024,24626.1481858973,10405134,Europe & Central Asia
+Croatia,HRV,2024,24050.4397933135,3866200,Europe & Central Asia
+St. Kitts and Nevis,KNA,2024,23960.6534357084,46843,Latin America & Caribbean
+Uruguay,URY,2024,23906.5133029408,3386588,Latin America & Caribbean
+Antigua and Barbuda,ATG,2024,23542.4526945578,93772,Latin America & Caribbean
+Latvia,LVA,2024,23409.0845154775,1866124,Europe & Central Asia
+Hungary,HUN,2024,23292.3263882478,9562065,Europe & Central Asia
+Curacao,CUW,2024,22832.8953958667,155967,Latin America & Caribbean
+French Polynesia,PYF,2024,22439.8838746025,281807,East Asia & Pacific
+Oman,OMN,2024,20285.2272897377,5281538,Middle East & North Africa
+Romania,ROU,2024,20080.2096215595,19051804,Europe & Central Asia
+Panama,PAN,2024,19161.2188501596,4515577,Latin America & Caribbean
+Trinidad and Tobago,TTO,2024,18733.4110406494,1368333,Latin America & Caribbean
+Costa Rica,CRI,2024,18587.1532203482,5129910,Latin America & Caribbean
+Seychelles,SYC,2024,17858.8226383978,121354,Sub-Saharan Africa
+Bulgaria,BGR,2024,17596.017366352102,6441421,Europe & Central Asia
+Chile,CHL,2024,16709.8893972307,19764771,Latin America & Caribbean
+Turkiye,TUR,2024,15892.7157287241,85518661,Europe & Central Asia
+Russian Federation,RUS,2024,14889.0185546875,143533851,Europe & Central Asia
+Mexico,MEX,2024,14185.7812248529,130861007,Latin America & Caribbean
+St. Lucia,LCA,2024,14181.6303351598,179744,Latin America & Caribbean
+Kazakhstan,KAZ,2024,14154.6324958076,20592571,Europe & Central Asia
+Argentina,ARG,2024,13969.7836603737,45696159,Latin America & Caribbean
+Serbia,SRB,2024,13679.2065983557,6586476,Europe & Central Asia
+Nauru,NRU,2024,13609.158837552,11947,East Asia & Pacific
+Maldives,MDV,2024,13379.3513577224,527799,South Asia
+China,CHN,2024,13303.1481543868,1408975000,East Asia & Pacific
+Montenegro,MNE,2024,13263.3281277699,623525,Europe & Central Asia
+Mauritius,MUS,2024,11990.7798944837,1245779,Sub-Saharan Africa
+Malaysia,MYS,2024,11874.4273684245,35557673,East Asia & Pacific
+Grenada,GRD,2024,11705.0902976658,117207,Latin America & Caribbean
+St. Vincent and the Grenadines,VCT,2024,11501.2265187188,100616,Latin America & Caribbean
+Albania,ALB,2024,11377.7757431099,2377128,Europe & Central Asia
+Dominican Republic,DOM,2024,10875.6618443092,11427557,Latin America & Caribbean
+Dominica,DMA,2024,10405.2787777582,66205,Latin America & Caribbean
+Brazil,BRA,2024,10310.5488778166,211998573,Latin America & Caribbean
+Bosnia and Herzegovina,BIH,2024,9358.78768951134,3164253,Europe & Central Asia
+North Macedonia,MKD,2024,9291.85661671864,1824359,Europe & Central Asia
+Georgia,GEO,2024,9241.49122313713,3699557,Europe & Central Asia
+Armenia,ARM,2024,8556.21406956719,3033500,Europe & Central Asia
+Peru,PER,2024,8452.37167056621,34217848,Latin America & Caribbean
+Belarus,BLR,2024,8317.6339991379191,9132629,Europe & Central Asia
+Gabon,GAB,2024,8230.04311451151,2538952,Sub-Saharan Africa
+Colombia,COL,2024,7919.20886825345,52886363,Latin America & Caribbean
+Jamaica,JAM,2024,7753.8006955432,2839175,Latin America & Caribbean
+Marshall Islands,MHL,2024,7726.33668877794,37548,East Asia & Pacific
+Botswana,BWA,2024,7695.75319445165,2521139,Sub-Saharan Africa
+Belize,BLZ,2024,7681.24400583113,417072,Latin America & Caribbean
+Moldova,MDA,2024,7576.19589413326,2402306,Europe & Central Asia
+Thailand,THA,2024,7346.62022142185,71668011,East Asia & Pacific
+Azerbaijan,AZE,2024,7283.8499076179,10202830,Europe & Central Asia
+Kosovo,XKX,2024,7023.06598512878,1594353,NA
+Suriname,SUR,2024,6961.78955961526,634431,Latin America & Caribbean
+Ecuador,ECU,2024,6874.705739766,18135478,Latin America & Caribbean
+Turkmenistan,TKM,2024,6856.65802730208,7494498,Europe & Central Asia
+Mongolia,MNG,2024,6750.6301157724,3524788,East Asia & Pacific
+Equatorial Guinea,GNQ,2024,6745.40013244916,1892516,Sub-Saharan Africa
+Libya,LBY,2024,6569.16408678648,7381023,Middle East & North Africa
+Fiji,FJI,2024,6425.74151715712,928784,East Asia & Pacific
+Paraguay,PRY,2024,6416.09708970845,6929153,Latin America & Caribbean
+South Africa,ZAF,2024,6267.186814093,64007187,Sub-Saharan Africa
+Guatemala,GTM,2024,6150.02571438505,18406359,Latin America & Caribbean
+Iraq,IRQ,2024,6073.61032342708,46042015,Middle East & North Africa
+Algeria,DZA,2024,5752.99076651465,46814308,Middle East & North Africa
+El Salvador,SLV,2024,5579.65969165029,6338193,Latin America & Caribbean
+Samoa,WSM,2024,5392.87761915762,218019,East Asia & Pacific
+Ukraine,UKR,2024,5389.47314453125,37860221,Europe & Central Asia
+Cabo Verde,CPV,2024,5192.48157325878,524877,Sub-Saharan Africa
+"Iran, Islamic Rep.",IRN,2024,5190.16959024821,91567738,Middle East & North Africa
+Indonesia,IDN,2024,4925.43048751861,283487931,East Asia & Pacific
+Viet Nam,VNM,2024,4717.29028732449,100987686,East Asia & Pacific
+Jordan,JOR,2024,4618.09592498567,11552876,Middle East & North Africa
+Sri Lanka,LKA,2024,4515.56787322732,21916000,South Asia
+Bolivia,BOL,2024,4421.16609889999,12413315,Latin America & Caribbean
+Namibia,NAM,2024,4413.12752211572,3030131,Sub-Saharan Africa
+"Venezuela, RB",VEN,2024,4217.59102643391,28405543,Latin America & Caribbean
+Tunisia,TUN,2024,4181.13789301228,12277109,Middle East & North Africa
+"Micronesia, Fed. Sts.",FSM,2024,4166.00476748564,113160,East Asia & Pacific
+Morocco,MAR,2024,4153.1943359375,38081173,Middle East & North Africa
+Philippines,PHL,2024,3984.8315387656,115843670,East Asia & Pacific
+Eswatini,SWZ,2024,3909.55892378182,1242822,Sub-Saharan Africa
+Djibouti,DJI,2024,3552.72335079222,1168722,Middle East & North Africa
+Sao Tome and Principe,STP,2024,3490.56883486557,235536,Sub-Saharan Africa
+Honduras,HND,2024,3426.43483328923,10825703,Latin America & Caribbean
+Vanuatu,VUT,2024,3410.77023167097,327777,East Asia & Pacific
+"Egypt, Arab Rep.",EGY,2024,3338.47371395895,116538258,Middle East & North Africa
+Uzbekistan,UZB,2024,3161.70010632875,36361859,Europe & Central Asia
+Papua New Guinea,PNG,2024,3006.70564478923,10576502,East Asia & Pacific
+Nicaragua,NIC,2024,2847.53966339498,6916140,Latin America & Caribbean
+Cote d'Ivoire,CIV,2024,2727.8935220697,31934230,Sub-Saharan Africa
+India,IND,2024,2694.73780859961,1450935791,South Asia
+Angola,AGO,2024,2665.87444776753,37885849,Sub-Saharan Africa
+Cambodia,KHM,2024,2627.87969756224,17638801,East Asia & Pacific
+Bangladesh,BGD,2024,2593.41611680774,173562364,South Asia
+West Bank and Gaza,PSE,2024,2592.30591217647,5289152,Middle East & North Africa
+Zimbabwe,ZWE,2024,2497.20332208763,16634373,Sub-Saharan Africa
+"Congo, Rep.",COG,2024,2482.2489948456,6332961,Sub-Saharan Africa
+Kyrgyz Republic,KGZ,2024,2420.18542283831,7221868,Europe & Central Asia
+Ghana,GHA,2024,2390.77237652715,34427414,Sub-Saharan Africa
+Kiribati,KIR,2024,2288.63471423684,134518,East Asia & Pacific
+Haiti,HTI,2024,2142.62330526788,11772557,Latin America & Caribbean
+Kenya,KEN,2024,2132.43452097647,56432944,Sub-Saharan Africa
+Lao PDR,LAO,2024,2123.97909415109,7769819,East Asia & Pacific
+Mauritania,MRT,2024,2110.12036938187,5169395,Sub-Saharan Africa
+Solomon Islands,SLB,2024,1933.55538435227,819198,East Asia & Pacific
+Cameroon,CMR,2024,1830.00833684727,29123744,Sub-Saharan Africa
+Senegal,SEN,2024,1773.21829923448,18501984,Sub-Saharan Africa
+Guinea,GIN,2024,1694.95375862193,14754785,Sub-Saharan Africa
+Comoros,COM,2024,1662.75663312504,866628,Sub-Saharan Africa
+Benin,BEN,2024,1485.38018885134,14462724,Sub-Saharan Africa
+Pakistan,PAK,2024,1478.77277977996,251269164,South Asia
+Nepal,NPL,2024,1447.31004458428,29651054,South Asia
+Myanmar,MMR,2024,1359.05001560107,54500091,East Asia & Pacific
+Tajikistan,TJK,2024,1341.20229027672,10590927,Europe & Central Asia
+Timor-Leste,TLS,2024,1331.9705130185,1400638,East Asia & Pacific
+Zambia,ZMB,2024,1187.10943350064,21314956,Sub-Saharan Africa
+Tanzania,TZA,2024,1186.71691894531,68560157,Sub-Saharan Africa
+Ethiopia,ETH,2024,1133.88279681719,132059767,Sub-Saharan Africa
+Togo,TGO,2024,1119.38160509429,9515236,Sub-Saharan Africa
+Mali,MLI,2024,1094.61949265799,24478595,Sub-Saharan Africa
+Nigeria,NGA,2024,1084.16041805436,232679478,Sub-Saharan Africa
+Uganda,UGA,2024,1077.91278452817,50015092,Sub-Saharan Africa
+Guinea-Bissau,GNB,2024,1007.74151728028,2201352,Sub-Saharan Africa
+Rwanda,RWA,2024,999.65456165547,14256567,Sub-Saharan Africa
+Sudan,SDN,2024,984.607666015625,50448963,Sub-Saharan Africa
+Burkina Faso,BFA,2024,981.992649769081,23548781,Sub-Saharan Africa
+Lesotho,LSO,2024,971.90771824829,2337423,Sub-Saharan Africa
+Chad,TCD,2024,961.55975562506,20299123,Sub-Saharan Africa
+"Gambia, The",GMB,2024,871.340291776294,2759988,Sub-Saharan Africa
+Liberia,LBR,2024,851.497723870206,5612817,Sub-Saharan Africa
+Sierra Leone,SLE,2024,806.654650417726,8642022,Sub-Saharan Africa
+Niger,NER,2024,735.270255787226,27032412,Sub-Saharan Africa
+Mozambique,MOZ,2024,656.776824637306,34631766,Sub-Saharan Africa
+"Congo, Dem. Rep.",COD,2024,649.383338556725,109276265,Sub-Saharan Africa
+"Somalia, Fed. Rep.",SOM,2024,629.538899449007,19009151,Sub-Saharan Africa
+Madagascar,MDG,2024,544.987501003384,31964956,Sub-Saharan Africa
+Malawi,MWI,2024,522.570393642547,21655286,Sub-Saharan Africa
+Central African Republic,CAF,2024,516.160999996036,5330690,Sub-Saharan Africa
+Burundi,BDI,2024,219.424830882698,14047786,Sub-Saharan Africa
